@@ -8,7 +8,7 @@ const UserNavbar: React.FC = () => {
   return (
     <nav className="bg-red-600 p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <Link href="/home" className="text-white text-2xl font-bold">Telkom Bot</Link>
+        <Link href="/home" className="text-white text-2xl font-bold pl-4">Telkom Bot</Link>
         <div className="space-x-4">
           <Link href="/home" className="text-white hover:text-red-200">Home</Link>
           <button
