@@ -33,3 +33,15 @@ Start the development server to run the chatbot app:
 npm run dev
 ```
 The application will start, and you can access the chatbot at `http://localhost:3000/`.
+
+### Note
+
+For now, the frontend doesn't utilize session management, so authentication is not required.  
+The `/home` page at `http://localhost:3000/` can be accessed without logging in.
+
+### Preview Video
+
+You can watch a preview video of the application's usage below:
+
+[Watch the video](https://drive.google.com/file/d/1EQR0dzsDzA80nAjp1pCOyZEiZb5hM4SK/view?usp=sharing)
+
